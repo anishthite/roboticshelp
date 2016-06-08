@@ -23,7 +23,7 @@ h4,
 h5,
 h6 {
   font-family: Open Sans, Helvetica Neue, 'Helvetica', Arial, sans-serif;
-  font-weight: 800;
+ 
 }
 a {
   color: #404040;
@@ -169,7 +169,7 @@ hr.small {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -188,7 +188,7 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman',;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
@@ -267,7 +267,7 @@ footer {
   padding: 50px 0 65px;
 }
 footer .list-inline {
-  margin: 0;
+  margin: 10;
   padding: 0;
 }
 footer .copyright {
